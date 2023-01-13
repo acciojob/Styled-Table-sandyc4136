@@ -1,1 +1,19 @@
 /* your code */
+tr.heading{
+	background-color:blue;
+	color:aqua;
+}
+
+.t1{
+	border:1px solid black;
+	border-collapse:collapse;
+	width:200;
+}
+th{
+	background-color:lightblue;
+}
+td,th{
+	border:1px solid black;
+	padding:10px;
+	text-align:center;
+}
